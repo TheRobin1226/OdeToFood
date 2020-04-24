@@ -1,0 +1,16 @@
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\Autofac.dll
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\Autofac.pdb
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\Autofac.xml
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marcus Robinson\Desktop\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
